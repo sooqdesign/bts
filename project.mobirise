@@ -41,7 +41,7 @@
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
-            "hamburgerColor": "#ffffff"
+            "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
           "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
@@ -69,7 +69,7 @@
           "_anchor": "menu-0",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".nav-link": {
               "font-size": "20px"
@@ -223,7 +223,7 @@
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
-            "hamburgerColor": "#ffffff"
+            "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
           "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
@@ -250,7 +250,7 @@
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".nav-link": {
               "font-size": "20px"
@@ -275,7 +275,7 @@
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
-            "hamburgerColor": "#ffffff"
+            "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
           "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
@@ -302,7 +302,7 @@
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".nav-link": {
               "font-size": "20px"
@@ -327,7 +327,7 @@
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
-            "hamburgerColor": "#ffffff"
+            "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
           "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
@@ -354,7 +354,7 @@
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".nav-link": {
               "font-size": "20px"
