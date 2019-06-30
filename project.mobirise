@@ -18,7 +18,7 @@
     "favicon": "",
     "noImageResize": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 24,
+    "uniqCompNum": 35,
     "versionPublish": "4.10.4",
     "screenshot": "screenshot.png"
   },
@@ -99,7 +99,7 @@
           },
           "title": "Badee3 For Technical Solution",
           "text": "BTS is a young and dynamic company, which has been incessantly developing since its establishment in 2010. With office in Amman, Jordan<br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Fleet Management</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Broadcast &amp; Media</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Green Energy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Signage System</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Optical Fiber Networks</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Fleet Management</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Broadcast &amp; Media</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Green Energy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Signage System</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Optical Fiber Networks</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -113,6 +113,104 @@
               "font-size": "48px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#f2f2f2",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/gp-2-1440x550.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Fleet Management<br>",
+                "contentAlign": "left",
+                "text": "Track the location of your vehicles in real time,<br> check their routes, monitor stopovers, and cut back costs. <br>The GPS fleet tracking system allows you to simplify and<br> optimize your work in one click .<br>\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/todd-mason-director-1-1200x800.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Broadcast &amp; Media<br>",
+                "contentAlign": "left",
+                "text": "BTS team can design and install powerful, turnkey video and audio communication solutions to cater for all broadcast needs, from small post-production and production studios to large multi-channel  broadcasting corporatios, as well as IP-TV\n<br>\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shutterstock-326698985-1200x857.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Green Energy",
+                "contentAlign": "left",
+                "text": "At BTS, we're striving to power our company with 100% renewable energy. In addition to the environmental benefits, we see renewable energy as a business opportunity and continue to invest in accelerating its development. We believe that by powering the web with renewable energy, we're creating a better future for everyone\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/about-us-1200x551.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Optical Fiber Networks",
+                "contentAlign": "left",
+                "text": "Advanced technologies engineered to help you solve the toughest challenges in networking . We offer turnkey fiber network setup , design , install and ordering.&nbsp;<br>\nNot forgetting security networks i.e. Access door - RFID Access\n<br>\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/maxresdefault-1280x720.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Signage System&nbsp;",
+                "contentAlign": "left",
+                "text": "Standalone Digital Signage Hybrid display with digital signage and mirror functionalities Professional-grade digital signage that reliably delivers rich content and  allow for HD quality Playback of digital media with enhanced Sales/Markiting\n<br>\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-o",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
             },
             "P": {
               "color": "#ffffff"
@@ -212,7 +310,7 @@
     "Services.html": {
       "settings": {
         "title": "Services",
-        "order": 1
+        "order": 6
       },
       "components": [
         {
@@ -264,7 +362,7 @@
     "About.html": {
       "settings": {
         "title": "About",
-        "order": 2
+        "order": 7
       },
       "components": [
         {
@@ -316,7 +414,7 @@
     "Contact.html": {
       "settings": {
         "title": "Contact Us",
-        "order": 3
+        "order": 8
       },
       "components": [
         {
@@ -468,6 +566,521 @@
           ],
           "_name": "map1",
           "_anchor": "map1-a"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Fleet Management",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
+          "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/full-hd-logo-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Badee3 For Technical Solution</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "menu-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>Jordan, Amman, Wasfi Altal ST.  #55<br><br>\n<strong>Contacts</strong><br>\nEmail : info@badee3.com<br>\nPhone: +962&nbsp;777 99 7698<br>Phone: +962 797 99 7698<br>TeleFax: +962 6&nbsp;5524735<br><br>Copyright © 2019 www.badee3.com&nbsp;<br> All Rights Reserved<br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sooqdesign@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-q"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Broadcast &amp; Media",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
+          "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/full-hd-logo-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Badee3 For Technical Solution</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "menu-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>Jordan, Amman, Wasfi Altal ST.  #55<br><br>\n<strong>Contacts</strong><br>\nEmail : info@badee3.com<br>\nPhone: +962&nbsp;777 99 7698<br>Phone: +962 797 99 7698<br>TeleFax: +962 6&nbsp;5524735<br><br>Copyright © 2019 www.badee3.com&nbsp;<br> All Rights Reserved<br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sooqdesign@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-s"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Green Energy",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
+          "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/full-hd-logo-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Badee3 For Technical Solution</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "menu-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>Jordan, Amman, Wasfi Altal ST.  #55<br><br>\n<strong>Contacts</strong><br>\nEmail : info@badee3.com<br>\nPhone: +962&nbsp;777 99 7698<br>Phone: +962 797 99 7698<br>TeleFax: +962 6&nbsp;5524735<br><br>Copyright © 2019 www.badee3.com&nbsp;<br> All Rights Reserved<br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sooqdesign@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-u"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "Signage System",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
+          "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/full-hd-logo-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Badee3 For Technical Solution</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "menu-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>Jordan, Amman, Wasfi Altal ST.  #55<br><br>\n<strong>Contacts</strong><br>\nEmail : info@badee3.com<br>\nPhone: +962&nbsp;777 99 7698<br>Phone: +962 797 99 7698<br>TeleFax: +962 6&nbsp;5524735<br><br>Copyright © 2019 www.badee3.com&nbsp;<br> All Rights Reserved<br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sooqdesign@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-w"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "Optical Fiber Networks",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
+          "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/full-hd-logo-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Badee3 For Technical Solution</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "menu-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>Jordan, Amman, Wasfi Altal ST.  #55<br><br>\n<strong>Contacts</strong><br>\nEmail : info@badee3.com<br>\nPhone: +962&nbsp;777 99 7698<br>Phone: +962 797 99 7698<br>TeleFax: +962 6&nbsp;5524735<br><br>Copyright © 2019 www.badee3.com&nbsp;<br> All Rights Reserved<br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sooqdesign@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-y"
         }
       ]
     }
