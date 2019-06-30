@@ -1,5 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
 #menu-0 .navbar-toggler {
   color: #000000;
+}
+#header1-2 H1 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 46px;
+  font-family: 'Oswald', sans-serif;
+}
+#header1-2 P {
+  color: #ffffff;
+  text-align: center;
+  font-size: 22px;
+}
+#header1-2 .btn {
+  font-size: 20px;
 }
 #menu-3 .navbar-toggler {
   color: #000000;
