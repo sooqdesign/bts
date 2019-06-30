@@ -49,6 +49,17 @@
 #form1-8 .mbr-section-title {
   color: #ffffff;
 }
+#msg-box1-10 DIV {
+  text-align: left;
+  font-size: 30px;
+}
+#msg-box1-10 H2 {
+  font-size: 30px;
+  text-align: left;
+}
+#msg-box1-10 B {
+  font-size: 25px;
+}
 #menu-p .navbar-toggler {
   color: #000000;
 }

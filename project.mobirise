@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bade33",
-    "currentPage": "index.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "favicon": "",
     "noImageResize": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 35,
+    "uniqCompNum": 37,
     "versionPublish": "4.10.4",
     "screenshot": "screenshot.png"
   },
@@ -122,7 +122,7 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -173,7 +173,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/about-us-1200x551.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -187,7 +187,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/maxresdefault-1280x720.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -221,7 +221,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/sime%20header%20logo%202-1080x362.png",
@@ -513,6 +513,50 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Phone: &nbsp; +962 777 99 7698</b><br><b>\n</b><div><b>Phone: &nbsp; +962 797 99 7698\n</b></div><div><b>TeleFax: +962 6 5524735\n</b></div><div><br></div>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Call Now</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-10",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            "H2": {
+              "font-size": "30px",
+              "text-align": "left"
+            },
+            "B": {
+              "font-size": "25px"
             }
           }
         },
