@@ -18,7 +18,7 @@
     "favicon": "",
     "noImageResize": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 18,
+    "uniqCompNum": 21,
     "versionPublish": "4.10.4"
   },
   "pages": {
@@ -36,15 +36,15 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
+            "showButtons": true,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
-            "hamburgerColor": "#000000"
+            "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact Us</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">.</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Services.html\">Srvices</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -69,54 +69,10 @@
           "_anchor": "menu-0",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1202.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "color": "#ffffff"
             },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "title": "Badee3 For Technical Solution",
-          "text": "BTS is a young and dynamic company, which has been incessantly developing since its establishment in 2010. With office in Amman, Jordan",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fleet Management</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Broadcast &amp; Media</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Green Energy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Signage System</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Optical Fiber Networks</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-2",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "46px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "22px"
-            },
-            ".btn": {
-              "font-size": "20px"
+            ".nav-link": {
+              "font-size": "8px"
             }
           }
         },
@@ -164,9 +120,9 @@
         }
       ]
     },
-    "page1.html": {
+    "Services.html": {
       "settings": {
-        "title": "About",
+        "title": "Services",
         "order": 1
       },
       "components": [
@@ -174,15 +130,15 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
+            "showButtons": true,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
-            "hamburgerColor": "#000000"
+            "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact Us</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">.</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Services.html\">Srvices</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -206,16 +162,19 @@
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
+            },
+            ".nav-link": {
+              "font-size": "8px"
             }
           },
-          "_anchor": "menu-3"
+          "_anchor": "menu-k"
         }
       ]
     },
-    "page2.html": {
+    "About.html": {
       "settings": {
-        "title": "Contact Us",
+        "title": "About",
         "order": 2
       },
       "components": [
@@ -223,15 +182,15 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
+            "showButtons": true,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
-            "hamburgerColor": "#000000"
+            "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact Us</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">.</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Services.html\">Srvices</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -255,7 +214,62 @@
           "_name": "menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
+            },
+            ".nav-link": {
+              "font-size": "8px"
+            }
+          },
+          "_anchor": "menu-3"
+        }
+      ]
+    },
+    "Contact.html": {
+      "settings": {
+        "title": "Contact Us",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">.</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Services.html\">Srvices</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/full-hd-logo-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Badee3 For Technical Solution</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".nav-link": {
+              "font-size": "8px"
             }
           },
           "_anchor": "menu-4"

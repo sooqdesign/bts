@@ -1,22 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
-
 #menu-0 .navbar-toggler {
-  color: #000000;
-}
-#header1-2 H1 {
   color: #ffffff;
-  text-align: center;
-  font-size: 46px;
-  font-family: 'Oswald', sans-serif;
 }
-#header1-2 P {
-  color: #ffffff;
-  text-align: center;
-  font-size: 22px;
-}
-#header1-2 .btn {
-  font-size: 20px;
+#menu-0 .nav-link {
+  font-size: 8px;
 }
 #header1-h H1 {
   color: #ffffff;
@@ -27,11 +15,23 @@
 #header1-h P {
   color: #ffffff;
 }
+#menu-k .navbar-toggler {
+  color: #ffffff;
+}
+#menu-k .nav-link {
+  font-size: 8px;
+}
 #menu-3 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
+}
+#menu-3 .nav-link {
+  font-size: 8px;
 }
 #menu-4 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
+}
+#menu-4 .nav-link {
+  font-size: 8px;
 }
 #form1-8 .mbr-section-title {
   color: #ffffff;
