@@ -13,12 +13,12 @@
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "siteUrl": "http://www.badee3.com",
+    "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.10.4"
   },
   "pages": {
@@ -117,6 +117,48 @@
             },
             ".btn": {
               "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1202.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Badee3 For Technical Solution",
+          "text": "BTS is a young and dynamic company, which has been incessantly developing since its establishment in 2010. With office in Amman, Jordan",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-h",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           }
         }
