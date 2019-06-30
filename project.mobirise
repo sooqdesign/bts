@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bade33",
-    "currentPage": "Contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -19,7 +19,8 @@
     "noImageResize": "",
     "sitemapSwitcher": "on",
     "uniqCompNum": 24,
-    "versionPublish": "4.10.4"
+    "versionPublish": "4.10.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
