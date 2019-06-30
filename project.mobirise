@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bade33",
-    "currentPage": "index.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "favicon": "",
     "noImageResize": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 21,
+    "uniqCompNum": 24,
     "versionPublish": "4.10.4"
   },
   "pages": {
@@ -36,15 +36,15 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">.</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Services.html\">Srvices</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
+          "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -72,7 +72,7 @@
               "color": "#ffffff"
             },
             ".nav-link": {
-              "font-size": "8px"
+              "font-size": "20px"
             }
           }
         },
@@ -98,7 +98,7 @@
           },
           "title": "Badee3 For Technical Solution",
           "text": "BTS is a young and dynamic company, which has been incessantly developing since its establishment in 2010. With office in Amman, Jordan<br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fleet Management</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Broadcast &amp; Media</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Green Energy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Signage System</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Optical Fiber Networks</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Fleet Management</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Broadcast &amp; Media</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Green Energy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Signage System</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://badee3.com/site/index.html\" data-toolbar=\"-mbrBtnMove\">Optical Fiber Networks</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -117,6 +117,94 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/sime%20header%20logo%202-1080x362.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dddddd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Scope of activity :\n",
+          "caption": "<p>&nbsp;<span style=\"font-size: 1.25rem;\">BTS is specializes in designing, developing and marketing of wireless data transfer systems, web and mobile software solutions for management and tracking of vehicle fleets and mobile work-teams in real time via the Internet</span></p><p><span style=\"font-size: 1.25rem;\">Open and flexible software solution, designed for companies that have a fleet of vehicles and mobile workforces, can be integrated into our existing management system and can be customized to your company’s logistic needs</span></p><p>\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-l",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "color": "#000000"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Address</strong><br>Jordan, Amman, Wasfi Altal ST.  #55<br><br>\n<strong>Contacts</strong><br>\nEmail : info@badee3.com<br>\nPhone: +962&nbsp;777 99 7698<br>Phone: +962 797 99 7698<br>TeleFax: +962 6&nbsp;5524735<br><br>Copyright © 2019 www.badee3.com&nbsp;<br> All Rights Reserved<br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sooqdesign@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-n"
         }
       ]
     },
@@ -130,15 +218,15 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">.</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Services.html\">Srvices</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
+          "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -165,7 +253,7 @@
               "color": "#ffffff"
             },
             ".nav-link": {
-              "font-size": "8px"
+              "font-size": "20px"
             }
           },
           "_anchor": "menu-k"
@@ -182,15 +270,15 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">.</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Services.html\">Srvices</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
+          "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -217,7 +305,7 @@
               "color": "#ffffff"
             },
             ".nav-link": {
-              "font-size": "8px"
+              "font-size": "20px"
             }
           },
           "_anchor": "menu-3"
@@ -234,15 +322,15 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">.</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Services.html\">Srvices</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Services.html\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn-parent\"></span>Services</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact Us</a></li>",
+          "buttons": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"Contact.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -269,7 +357,7 @@
               "color": "#ffffff"
             },
             ".nav-link": {
-              "font-size": "8px"
+              "font-size": "20px"
             }
           },
           "_anchor": "menu-4"
